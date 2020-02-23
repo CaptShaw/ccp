@@ -35,7 +35,7 @@ def regex_finder(regex):
     print('共计',num,'条')
 
 if __name__ == '__main__':
-    # cpp_cutter.cutter()
+    cpp_cutter.cutter()
 
     # regex = input('please input a regex: ')
     # regex = r'第.*条'
